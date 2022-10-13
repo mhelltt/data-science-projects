@@ -1,5 +1,5 @@
-# Data Science Portfolio
-Welcome to my Github Repository. I will be posting projects here as I complete them.  
+# Data Analytics Portfolio
+Welcome to my Data Analytics repository. I will be posting EDA and Viz projects here as I complete them.  
 
 Projects can also be viewed on my Portfolio Site.
 
